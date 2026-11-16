@@ -1,11 +1,11 @@
 {
-    "version": "0.44.0",
+    "version": "0.44.1",
     "homepage": "https://github.com/PuppetMaster2k/apeirogon",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PuppetMaster2k/apeirogon/releases/download/v0.44.0/apeirogon-v0.44.0-x86_64-pc-windows-msvc.zip",
-            "hash": "7b90c27f64e060c5b8efdeecc5067d53e2ba2befbe3e73bd725bca57e95d8d87"
+            "url": "https://github.com/PuppetMaster2k/apeirogon/releases/download/v0.44.1/apeirogon-v0.44.1-x86_64-pc-windows-msvc.zip",
+            "hash": "b638a71d76944ed3b64edb91f00ed4b6ece24047775cd7ed0cd04f27c007b135"
         }
     },
     "bin": ["apeirogond.exe", "a7n.exe", "a7n-gui.exe"],
